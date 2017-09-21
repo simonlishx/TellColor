@@ -1,0 +1,11 @@
+Package: TellColor
+Type: Package
+Title: Tell color
+Version: 0.1.0
+Author: Simon
+Maintainer: Simon <simonlishx@163.com>
+Description: This package is for color
+License: GPL
+LazyData: true
+Date: 2017-07-01
+Depends: R (>= 3.4.0)
